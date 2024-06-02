@@ -36,3 +36,4 @@ type ApplicationName =
   | "photoshopbeta"
   | "premierepro"
   | "premiereprobeta";
+
